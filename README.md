@@ -1,7 +1,5 @@
 # ghc-for-older-darwin-systems
 
-Recent releases of ghc and the supporting build tools (stack and cabal) are available only for the newest darwin systems.
+In this repo are builds of ghc and supporting tools (stack and cabal) for 64bit Darwin 10 (Snow Leopard) and newer systems.
 
-Coming soon will be build instructions for older darwin systems and binary releases needed to bootstrap these older systems.
-
-At present, 64bit Intel (x86_64) builds are available, back to darwin 10 (SnowLeopard).
+Coming soon will be build instructions to allow you to reproduce these builds on your own.
