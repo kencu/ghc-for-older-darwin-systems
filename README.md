@@ -2,4 +2,4 @@
 
 In this repo are builds of ghc and supporting tools (stack and cabal) for 64bit Darwin 10 (Snow Leopard) and newer systems.
 
-Coming soon will be build instructions to allow you to reproduce these builds on your own.
+Soon will be build instructions to allow you to reproduce these builds on your own.
